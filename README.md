@@ -194,6 +194,7 @@ Internet
 | URL | Description |
 |---|---|
 | `sentinelitnextgen.co.za` | Enterprise homepage |
+| `sentinelitnextgen.co.za/audit.html` | **Free military-grade security audit — try it now** |
 | `sentinelitnextgen.co.za/command-center.html` | Unified SOC + Scanner + Compliance |
 | `sentinelitnextgen.co.za/portal` | Multi-tenant client portal |
 | `sentinelitnextgen.co.za/platform.html` | Full pricing and features |
